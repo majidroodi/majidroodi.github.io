@@ -22,3 +22,4 @@ deploy:
   local_dir: docs
   target_branch: gh-pages
   keep-history: true
+  fqdn: majidroodi.github.io
