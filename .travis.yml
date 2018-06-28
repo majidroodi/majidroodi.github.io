@@ -20,6 +20,6 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   local_dir: docs
-  target_branch: gh-pages
+  target_branch: master
   keep-history: true
   fqdn: majidroodi.github.io
