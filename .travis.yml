@@ -8,10 +8,9 @@ before_install:
   - gem install jekyll
   - gem install jekyll-sitemap
   - gem install jekyll-feed
-  - gem install jalalidate
+  - gem install jekyll-jalali
   - gem install jekyll-tagging
   - gem install jekyll-archives
-  - gem install jekyll-jalali
 
 
 script:
