@@ -11,6 +11,8 @@ before_install:
   - gem install jalalidate
   - gem install jekyll-tagging
   - gem install jekyll-archives
+  - gem install jekyll-jalali
+
 
 script:
   - bundle exec jekyll build -d docs
