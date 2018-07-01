@@ -30,7 +30,7 @@ permalink: :title.html
 
 
 # Build settings
-markdown: markdown
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
