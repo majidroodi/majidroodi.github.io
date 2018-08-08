@@ -1,7 +1,9 @@
 ---
 layout:   post
-title:	"بهترین دوست من"
-date:    2018-08-08 10:40:29 +03:30
+title:	"About me"
+date:    
 tags:   یادداشت
 ---
 
+Hi.
+My name is majid,a computrer & network technical.Are learning the Python programming language.i use GNU/LINUX OS(arch) & love open source software
