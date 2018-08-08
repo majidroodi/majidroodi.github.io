@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:	"About me"
-date:    
+title:	"در مورد من"
+date:    218-08-08 10:50:00 +3:30
 tags:   یادداشت
 ---
 
-Hi.
-My name is majid,a computrer & network technical.Are learning the Python programming language.i use GNU/LINUX OS(arch) & love open source software
+سلام.
+این صفحه مربوط به اطلاعات رزومه ای من میباشد.
