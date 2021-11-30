@@ -1,4 +1,4 @@
-<span id="a">majidroodi@DevOps</span>:<span id="b">~</span><span id="c">$</span> cd Pradyuman/<!-- kjsdfhkjdhsfkjdshfkj -->About_Pradyuman
+<span id="a">majidroodi@DevOps</span>:<span id="b">~</span><span id="c">$</span> cd majidroodi/<!-- kjsdfhkjdhsfkjdshfkj -->About_majidroodi
 <span id="a">majidroodi@DevOps</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->majidroodi.txt<br/><br/>
 My favorite code quote, "<span id="k">Build fast, Code big</span>". <!-- sjkfhskjf -->
 
