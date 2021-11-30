@@ -2,7 +2,7 @@
 <span id="a">majidroodi@DevOps</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->majidroodi.txt<br/><br/>
 My favorite code quote, "<span id="k"> Cloud-native , microservices , CI/CD </span>". <!-- sjkfhskjf -->
 
-Hey There! My name is Majid .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am junior DevOps engineer (TU Delft).</p>
+Hey There! My name is Majid .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a Computer Engineer and junior DevOps engineer ;).</p>
 <p>I love to Open-source software(OSS),code, end to end automation, and boxing, and maybe gaming too.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I have worked for freelancer DevOps. You can learn more about me on my <a href="https://myresume"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
