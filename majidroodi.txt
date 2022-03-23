@@ -4,7 +4,7 @@ My favorite code quote, "<span id="k"> Cloud-native , microservices , CI/CD </sp
 
 Hey There! My name is Majid .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a Computer Engineer and junior DevOps engineer ;).</p>
 <p>I love to Open-source software(OSS),code, end to end automation, and boxing, and maybe gaming too.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have worked for freelancer DevOps. You can learn more about me on my <a href="https://drive.google.com/file/d/1wmiPqEnWkCDLgeQEMlELD86GbnrWEKY0/view?usp=sharing"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> I have worked for freelancer DevOps. You can learn more about me on my <a href="https://drive.google.com/file/d/18VNQ6DTMd66uSufdBtiirdNiXvlAH8nr/view?usp=sharing"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/majid-roodi-733864106/">LinkedIn</a> <br> <a href="https://github.com/majidroodi">GitHub</a> .</p>
 
