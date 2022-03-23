@@ -1,6 +1,6 @@
 <span id="a">majidroodi@DevOps</span>:<span id="b">~</span><span id="c">$</span> cd majidroodi/<!-- kjsdfhkjdhsfkjdshfkj -->About_majidroodi
 <span id="a">majidroodi@DevOps</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->majidroodi.txt<br/><br/>
-"<span id="k"> if you automated everything, you will always br happy</span>". <!-- sjkfhskjf -->
+"<span id="k"> if you automated everything, you will always be happy</span>". <!-- sjkfhskjf -->
 
 Hey There! My name is Majid .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a DevOps engineer ;).</p>
 <p>I love to Open-source software(OSS) and used linux disterbuted system,code, end to end automation, and boxing, and maybe gaming too.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
