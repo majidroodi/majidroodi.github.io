@@ -14,7 +14,7 @@ Linux Administrator and container-based systems.</p> <!-- ksjdokhdfgdufdfkjhfkja
 <p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/majid-roodi/">LinkedIn</a> <br> <a href="https://github.com/majidroodi">GitHub</a> <br> <a href="https://virgool.io/@majidroodi/">Virgool</a> .</p>
 
 
-If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: majidroodi@protonmail.com">majidroodi@protonmail.com</a>.
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: majidroodi.mr@gmail.com">majidroodi.mr@gmail.com</a>.
 
 <p>Cheers!</p>
 <span id="a">majidroodi@DevOps</span>:<span id="b">~</span><span id="c">$</span> exit
