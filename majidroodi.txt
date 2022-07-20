@@ -6,7 +6,7 @@ Hey There! My name is Majid .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I a
 <p>Skilled DevOps Engineer, experienced in networking and programming. With the ability to
 implement end-to-end automation in micro-service and cloud-native based on 12-factor methodology
 and CI/CD pipeline. Knowledgeable, detail-oriented Linux Administrator and container-based systems.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have worked for freelancer DevOps. You can learn more about me on my <a href="https://drive.google.com/file/d/11jz7BiLDl-t5B3Q-tpONL0O16LkQ-cuP/view?usp=sharing"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> I have worked for freelancer DevOps. You can learn more about me on my <a href="https://drive.google.com/file/d/1VPoL9WPgMkMBTd3nqVFdEzAilfQPubG0/view?usp=sharing"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/majid-roodi/">LinkedIn</a> <br> <a href="https://github.com/majidroodi">GitHub</a> <br> <a href="https://virgool.io/@majidroodi/">Virgool</a> .</p>
 
