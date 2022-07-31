@@ -1,12 +1,12 @@
 <span id="a">majidroodi#</span>:<span id="b">~</span><span id="c">$</span> cd majidroodi/<!-- kjsdfhkjdhsfkjdshfkj -->About_majidroodi
-<span id="a">majidroodi@DevOps</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->majidroodi.txt<br/><br/>
+<span id="a">majidroodi#</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->majidroodi.txt<br/><br/>
 "<span id="k"> if you automated everything, you will always be happy</span>". <!-- sjkfhskjf -->
 
 Hey There! My name is Majid .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a DevOps Engineer ;).</p>
 <p>Skilled DevOps engineer with extensive expertise in both programming and networking. has the capacity to develop end-to-end
 automation in micro-service and cloud-native applications based on the 12-factor model and CI/CD pipeline. Linux Administrator
 who is well-versed in and attentive to detail, and who has experience working with container-based systems..</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have worked for freelancer DevOps. You can learn more about me on my <a href="https://drive.google.com/file/d/1VPoL9WPgMkMBTd3nqVFdEzAilfQPubG0/view?usp=sharing"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> I have worked for freelancer DevOps. You can learn more about me on my <a href="https://drive.google.com/file/d/1mP3xwoEMtavTgpx0lEkmLNxyWwgT8Ywd/view?usp=sharing"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/majid-roodi/">LinkedIn</a> <br> <a href="https://github.com/majidroodi">GitHub</a> <br> <a href="https://virgool.io/@majidroodi/">Virgool</a> .</p>
 
