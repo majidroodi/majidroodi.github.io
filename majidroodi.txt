@@ -5,9 +5,9 @@ Hey There! My name is Majid .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I a
 <p>I'm DevOps engineer with extensive expertise in both programming and networking. has the capacity to develop end-to-end
 automation in micro-service and cloud-native applications based on the 12-factor model and CI/CD pipeline. Linux Administrator
 who is well-versed in and attentive to detail, and who has experience working with container-based systems..</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have worked for freelancer DevOps. You can learn more about me on my <a href="https://storage.jjcloud.ir/records/files/uploads/documents/c6025f2e-ef7c-4506-896b-c5ab7314d57c.pdf?requester=38342e31372e34372e3936&resource=753a31333630343539&from=63765f7472616e73&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20220804%2F%2Fs3%2Faws4_request&X-Amz-Date=20220804T063945Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=b97614c62d0201b492243df82e08277d1763e6417e0d91e3ad8470a9c27cef38"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> I have worked for freelancer DevOps. You can learn more about me on my <a href="https://drive.google.com/file/d/1oFLZ5y9Xl688PPDlTppP5eCugvLArTAS/view?usp=sharing"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
-<p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/majid-roodi/">LinkedIn</a> <br> <a href="https://github.com/majidroodi">GitHub</a> <br> <a href="https://virgool.io/@majidroodi/">Virgool</a> .</p>
+<p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/majid-roodi/">LinkedIn</a> <br> <a href="https://github.com/majidroodi">GitHub</a> <br> .</p>
 
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: majidroodi.mr@gmail.com">majidroodi.mr@gmail.com</a>.
 
