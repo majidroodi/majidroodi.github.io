@@ -3,7 +3,7 @@
 
 Hey There! My name is Majid .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a DevOps Engineer ;).</p>
 <p>DevOps engineer with extensive expertise in both programming and networking. has the capacity to develop end-to-end automation in micro-service and cloud-native applications based on the 12-factor model and CI/CD pipeline. Linux Administrator who is well-versed in and attentive to detail, and who has experience working with container-based systems.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have worked for freelancer DevOps.I believe that one of the best ways to learn is to share knowledge, that's why I started the <a href="http://www.parsdevops.com/">Pars DevOps</a> website so that I can share a little of my experience with my friends. </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> I have worked for freelancer DevOps.I believe that one of the best ways to learn is by sharing knowledge, which is why I have started the <a href="http://www.parsdevops.com/">Pars DevOps</a> website. Through this platform, I aim to share my experiences with my peers. </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p> My favorite sport is Fitness, Boxing, and swimming, and I exercise every day to maintain a healthy body. Additionally, I occasionally start reading a book, but I'm more interested in listening to podcasts.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>You can learn more about me on my <a href="https://drive.google.com/file/d/1oFLZ5y9Xl688PPDlTppP5eCugvLArTAS/view?usp=sharing"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
