@@ -3,12 +3,12 @@
 
 Hey There! My name is Majid .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a DevOps Engineer ;).</p>
 <p>DevOps engineer with extensive expertise in both programming and networking. has the capacity to develop end-to-end automation in micro-service and cloud-native applications based on the 12-factor model and CI/CD pipeline. Linux Administrator who is well-versed in and attentive to detail, and who has experience working with container-based systems.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have worked for freelancer DevOps.I believe that one of the best ways to learn is by sharing knowledge, which is why I have started the <a href="http://www.parsdevops.com/">Pars DevOps</a> website. ParsDevOps is a Persian blog and through this platform, I aim to share my experiences with my peers. </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> I have worked for freelancer DevOps.I believe that one of the best ways to learn is by sharing knowledge, which is why I have started the <a href="http://www.parsdevops.com/">Pars DevOps</a> website. ParsDevOps is a Persian blog and through this website, I aim to share my experiences with my peers. </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p> My favorite sport is Fitness, Boxing, and swimming, and I exercise every day to maintain a healthy body. Additionally, I occasionally start reading a book, but I'm more interested in listening to podcasts.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>You can learn more about me on my <a href="https://drive.google.com/file/d/1CsSIEQ1B2jJiUDpz-6n4AEB3uZI2fgtP/view?usp=sharing"> portfolio </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/majid-roodi/">LinkedIn</a> <br> <a href="https://github.com/majidroodi">GitHub</a> <br> </p>
 
-If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: majidroodi@icloud.com">majidroodi@icloud.com</a>.
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: majidroodi.mr@gmail.com">majidroodi@icloud.com</a>.
 
 <span id="a">majidroodi</span>:<span id="b">~</span><span id="c">$</span> exit
